@@ -1,4 +1,6 @@
 <?php
+/** @var mysqli $connection */
+
 include("database.php");
 ?>
 
